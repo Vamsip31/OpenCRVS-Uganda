@@ -1,0 +1,24 @@
+2025-09-19 09:53:43 INFO  Utils:112 - [TestNG] Running:
+  D:\OpenCRVS\OpenCRVS-Uganda\Master.xml
+
+2025-09-19 09:53:48 INFO  TC005_ApplicationTypesTest:16 - ****** Starting TC005_ApplicationTypesTest *****
+2025-09-19 09:54:12 INFO  TC005_ApplicationTypesTest:63 - ****** Finished TC005_ApplicationTypesTest *****
+2025-09-19 10:30:12 INFO  Utils:112 - [TestNG] Running:
+  D:\OpenCRVS\OpenCRVS-Uganda\Master.xml
+
+2025-09-19 10:30:16 INFO  TC005_ApplicationTypesTest:16 - ****** Starting TC005_ApplicationTypesTest *****
+2025-09-19 10:30:39 INFO  TC005_ApplicationTypesTest:64 - ****** Finished TC005_ApplicationTypesTest *****
+2025-09-19 14:28:45 INFO  TC006_BirthInMedicalFacilityTest:16 - ****** Starting TC006_BirthInMedicalFacilityTest *****
+2025-09-19 14:29:10 INFO  TC006_BirthInMedicalFacilityTest:64 - ****** Finished TC006_BirthInMedicalFacilityTest *****
+2025-09-19 14:42:24 INFO  Utils:112 - [TestNG] Running:
+  D:\OpenCRVS\OpenCRVS-Uganda\Master.xml
+
+2025-09-19 14:42:28 INFO  TC006_BirthInMedicalFacilityTest:17 - ****** Starting TC006_BirthInMedicalFacilityTest *****
+2025-09-19 14:42:52 INFO  TC006_BirthInMedicalFacilityTest:71 - ****** Finished TC006_BirthInMedicalFacilityTest *****
+2025-09-19 14:59:30 INFO  Utils:112 - [TestNG] Running:
+  D:\OpenCRVS\OpenCRVS-Uganda\Master.xml
+
+2025-09-19 14:59:34 INFO  TC006_BirthInMedicalFacilityTest:18 - ****** Starting TC006_BirthInMedicalFacilityTest *****
+2025-09-19 14:59:58 INFO  TC006_BirthInMedicalFacilityTest:56 - Form field validation successful: Birth option selected
+2025-09-19 14:59:58 INFO  TC006_BirthInMedicalFacilityTest:69 - Form field validation successful
+2025-09-19 14:59:58 INFO  TC006_BirthInMedicalFacilityTest:75 - ****** Finished TC006_BirthInMedicalFacilityTest *****
